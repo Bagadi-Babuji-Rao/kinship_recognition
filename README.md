@@ -4,7 +4,9 @@
 2. An automatic kinship classifier has been in the works at Northeastern since 2010. Yet this technology remains largely unseen in practice for a couple of reasons:
 
    2.1 Existing image databases for kinship recognition tasks aren't large enough to capture and reflect the true data distributions of the families of the world.
+   
    2.2 Many hidden factors affect familial facial relationships, so a more discriminant model is needed than the computer vision algorithms used most often for higher-      level categorizations (e.g. facial recognition or object classification).
+   
    2.3 In 2019, North Eastern Lab conducted a competition on kaggle to get help from outside world to build a more complex model by determining if two people are blood-    related based solely on images of their faces.
 
 -> Problem statement: Predict whether two persons share kinship between them based solely on their facial images
